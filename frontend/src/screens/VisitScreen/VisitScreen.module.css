@@ -1,0 +1,21 @@
+.formErrorError {
+    color: red;
+    margin-top: 20px;
+}
+
+.login {
+    display: flex;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.mainwrapper {
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
